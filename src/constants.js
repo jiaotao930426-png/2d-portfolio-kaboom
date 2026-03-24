@@ -1,23 +1,40 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
-  tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-  Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-  library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
-};
+  pc: `这是我的 AI 驱动工作站。我是<b>焦涛</b>，一名拥有 7 年经验的资深 <b>HRBP</b>。
+    我不仅精通人力资源全模块，更擅长利用科技赋能：通过 <b>Open Claw</b> 自动抓取行业与薪酬数据，
+    并使用 <b>Vibe Coding</b> 构建 AI 驱动的个人工作流。
+    欢迎查看我的技术实践：<a href="https://github.com/jiaotao930426-png" target="_blank">Github</a>`,
+
+  "cs-degree": `这是我的学术基石。我毕业于 <b>中国矿业大学（北京）</b>，获得科学技术哲学硕士学位。
+    这种跨学科的背景让我具备极强的逻辑思维与组织诊断能力。此外，我还持有 <b>英语六级</b> 证书及驾驶证。`,
+
+  "sofa-table": `休息区也是我的“人才沙龙”。我有 3 年百人销售团队的 HRBP 经验，
+    曾主导过<b>趣加 (FunPlus)</b> 的绩效体系搭建和<b>新科以仁</b>的外贸团队扩充（从 0 到 60 人）。
+    我擅长在沟通中发现问题并提供闭环的人力资源解决方案。`,
+
+  tv: `电视上播放着全球人才动态。我具备<b>海外招聘全流程经验</b>，
+    熟悉东南亚、北美及中国香港地区的招聘渠道与薪酬标准。
+    无论是在线教育、游戏还是软件行业，我都能精准定位核心人才。`,
+
+  bed: `深夜的思考：如何优化销售部门的薪酬体系？如何设计人才梯队建设方案？
+    在我的职业生涯中，我成功选拔了多位销售主管，并确保了骨干员工的零流失。
+    每一个组织变革的细节，都在这里反复推敲。`,
+
+  resume: `<b>【求职名片 - 焦涛】</b>
+    <b>意向：</b>北京 / HRBP (20-28K)
+    <b>电话/微信：</b> 13717749910
+    <b>邮箱：</b> jiaotao930426@126.com
+    期待在北京与追求卓越的团队共同创造价值！`,
+
+  projects: `关于这个交互作品：它展示了我对新技术的快速学习能力。
+    从猎头背景积累的敏锐洞察，到海外招聘经理的全球视野，
+    我致力于成为一名<b>懂业务、懂技术、懂人性</b>的复合型 HRBP。`,
+
+  library: `书架上既有组织发展的经典著作，也有 AI 开发手册。
+    我曾带领过小型团队，也主导过高新企业资质申请等复杂项目。
+    7 年的沉淀让我明白，最好的管理是工具与制度的完美结合。`,
+
+  exit: `感谢你造访我的数字简历！
+    如果你正在寻找一位既有 211 硕士硬背景，又能玩转 AI 工具的资深 HRBP，
+    请随时通过电话或微信联系我。祝你有美好的一天！`,
